@@ -7,9 +7,9 @@ Hi! This is an OCR(Optical Character Recognition) project written in python lang
 
  [Tesseract](https://github.com/tesseract-ocr/)
 
-# To download Tesseract via SourceForge:
+# To download Tesseract:
 
- [Download](https://sourceforge.net/projects/tesseract-ocr-alt/)
+ [Download](https://github.com/UB-Mannheim/tesseract/wiki)
 
 Important reminder, to run ocr_coreTaslak.py you should install tesseract to your root project folder or specify location of tesseract in ocr_coreTaslak.py...
 
