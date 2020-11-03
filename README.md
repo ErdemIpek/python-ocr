@@ -29,8 +29,11 @@ Important reminder, to run ocr_coreTaslak.py you should install tesseract to you
 
 # Output:
 ```
-Input Fıle --> example_00
+Input File --> example_00
 Used Data --> tur_best
+Result :
+
+
 Ankaraya Hosgeldin
 
 ```
