@@ -3,8 +3,15 @@
  
 Hi! This is an OCR(Optical Character Recognition) project written in python language. Can be used to detect handwritten or printed texts in any language.
 
-This project uses Google's OCR technology:
-# [Tesseract](https://github.com/tesseract-ocr/)
+# This project requires Google's OCR technology "Tesseract":
+
+ [Tesseract](https://github.com/tesseract-ocr/)
+
+# To download Tesseract via SourceForge:
+
+ [Download](https://sourceforge.net/projects/tesseract-ocr-alt/)
+
+Important reminder, to run ocr_coreTaslak.py you should install tesseract to your root project folder or specify location of tesseract in ocr_coreTaslak.py...
 
 
  # Usage:
