@@ -34,7 +34,7 @@ Used Data --> tur_best
 Result :
 
 
-Ankaraya Hosgeldin
+Ankaraya hoşgeldin
 
 ```
 
